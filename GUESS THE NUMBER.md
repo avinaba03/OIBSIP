@@ -12,7 +12,3 @@ The ultimate score is shown once every round is finished.
 
 To play the "Guess the Number" game with the extra features, compile and run this Java programme. Feel free to change the totalRounds, maxAttempts, and minimum Range and maximum Range to adjust the gameplay as desired parameters.
 
-
-TASK-4
-
-ONLINE EXAM
